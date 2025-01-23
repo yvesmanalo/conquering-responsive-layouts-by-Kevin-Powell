@@ -1,0 +1,23 @@
+.parent{
+  width:60%;
+  height: 500px;
+  background-color: gray;
+  padding: 50px;
+  margin: 0 auto; 
+  
+}
+
+.child{
+  width:50%;
+  height: 200px;
+  background-color: whitesmoke;
+  padding: 2em; /*16*5=80px*/
+}
+
+/* PERCENTAGES */
+/* websites by default are responsive */
+/* use percentages instead of px for width */
+
+/* HEIGHTS */
+/* Do not set height on elements */
+/* Set padding instead for much space around content and background */
