@@ -1,0 +1,51 @@
+*{
+  box-sizing: border-box;
+}
+.container{
+  background-color: #23424A;
+  padding: 10em;
+  
+  
+}
+.hero{
+  
+  font-family: Roboto,sans-serif;
+  color: white;
+  
+
+  
+}
+
+.hero h1{
+  font-weight: 900;
+  font-size: 3em;
+  line-height: 3.5rem;
+  max-width:652px;
+}
+
+.hero p{
+  font-weight: 400;
+  font-size: 1.3em;
+  line-height: 2rem;;
+  max-width:652px;
+}
+
+
+.hero a{
+  text-decoration: none;
+  font-size: 1.25rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: black;
+  margin: 0 2em;
+}
+
+.button-container{
+  margin-top: 3.5em;
+  background-color: aqua;
+  width: 285px;
+  height:63px;
+  border-radius: 2em;
+  padding: 1em;
+
+}
